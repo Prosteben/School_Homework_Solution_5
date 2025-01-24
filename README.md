@@ -24,14 +24,3 @@ This project provides solutions for my homework assignments. It demonstrates the
 - Sorts users by age in ascending order.
 - Sorts products by price in descending order.
 
-## Usage
-
-### Prerequisites
-- Node.js installed on your system.
-
-### Steps
-1. Clone the repository or download the files.
-2. Place the `students_practice_dataset.json` file in the same directory as the script.
-3. Run the script using Node.js:
-   ```bash
-   node solution.js
