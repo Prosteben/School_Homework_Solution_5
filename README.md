@@ -1,4 +1,4 @@
-# BSDE Assignment Solutions
+# Homework Assignment Solutions
 
 This project provides solutions for my homework assignments. It demonstrates the use of JavaScript to manipulate and analyze data from a JSON file. The tasks are divided into multiple assignments, each focusing on different data processing concepts.
 
